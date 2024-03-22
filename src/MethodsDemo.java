@@ -18,6 +18,8 @@ public class MethodsDemo {
 	public String getData()
 	{
 		System.out.println("hello world");
+		System.out.println("hello world1");
+		System.out.println("hello world2");
 		return "Sylvia";
 		
 	}
