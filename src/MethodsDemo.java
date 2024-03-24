@@ -36,5 +36,14 @@ public class MethodsDemo {
 		return "Sylvia";
 		
 	}
+	public static  String getData3()
+	{
+		System.out.println("hello world2");
+		System.out.println("hello world2");
+		System.out.println("hello world2");
+		System.out.println("hello world2");
+		return "Sylvia";
+		
+	}
 
 }
