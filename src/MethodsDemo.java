@@ -30,6 +30,9 @@ public class MethodsDemo {
 	public static  String getData2()
 	{
 		System.out.println("hello world2");
+		System.out.println("hello world2");
+		System.out.println("hello world2");
+		System.out.println("hello world2");
 		return "Sylvia";
 		
 	}
